@@ -14,7 +14,6 @@ int main() {
     cout << n << endl;
     cout << l << endl;
     cout << c << endl;
-    // Use fixed and setprecision to ensure correct formatting for float and double
     cout << fixed << setprecision(3) << f << endl;
     cout << fixed << setprecision(9) << d << endl;
     return 0;
